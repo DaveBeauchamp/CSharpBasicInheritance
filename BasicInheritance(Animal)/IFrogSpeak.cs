@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace BasicInheritance_Animal_
 {
-    public class Lizard : Reptile
+    interface IFrogSpeak
     {
-        public string ScalySkin()
-        {
-            return "Lizard has scaly skin";
-        }
+        string Croak();
+
+        string Ribbit();
     }
 }

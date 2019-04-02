@@ -6,8 +6,21 @@ using System.Threading.Tasks;
 
 namespace BasicInheritance_Animal_
 {
-    public class Frog : Reptile
+    public class Frog : Reptile, IFrogSpeak
     {
+        public string Croak()
+        {
+            return "CROAK CROAK";
+        }
 
+        public string Ribbit()
+        {
+            return "RIBBIT RIBBIT";
+        }
+
+        public string ScalySkin()
+        {
+            return "Frog has smooth skin";
+        }
     }
 }

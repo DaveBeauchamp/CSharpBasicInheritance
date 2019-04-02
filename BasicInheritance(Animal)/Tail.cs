@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace BasicInheritance_Animal_
 {
-    public class Lizard : Reptile
+    class Tail
     {
-        public string ScalySkin()
-        {
-            return "Lizard has scaly skin";
-        }
+        public bool HasATail { get; set; }
     }
 }
