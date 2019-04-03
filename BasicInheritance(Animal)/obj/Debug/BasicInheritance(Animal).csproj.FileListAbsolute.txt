@@ -1,0 +1,7 @@
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\obj\Debug\BasicInheritance(Animal).csprojAssemblyReference.cache
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\obj\Debug\BasicInheritance(Animal).csproj.CoreCompileInputs.cache
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\bin\Debug\BasicInheritance(Animal).exe.config
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\bin\Debug\BasicInheritance(Animal).exe
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\bin\Debug\BasicInheritance(Animal).pdb
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\obj\Debug\BasicInheritance(Animal).exe
+C:\GitRepos\C#\CSharpBasicInheritance\BasicInheritance(Animal)\obj\Debug\BasicInheritance(Animal).pdb

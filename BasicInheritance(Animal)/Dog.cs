@@ -6,11 +6,33 @@ using System.Threading.Tasks;
 
 namespace BasicInheritance_Animal_
 {
-    public class Dog : Mammal, IDogSpeak
+    public class Dog : Mammal, IDogSpeak, IEat
     {
+        public Dog()
+        {
+            
+        }
+
+        public Dog(Tail<Dog> tail)
+        {
+            tail.HasATail = true;
+
+            if (tail.HasATail == true)
+            {
+                HasATail = true;
+            }
+        }
+
+        public bool HasATail { get; set; }
+
         public string Bark()
         {
             return "BARK BARK BARK";
+        }
+
+        public string Eat()
+        {
+            return "Eats from bowl";
         }
 
         public string Grrrr()

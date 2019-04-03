@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicInheritance_Animal_
 {
-    class Tail
+    public class Tail<T>
     {
         public bool HasATail { get; set; }
     }
